@@ -1,0 +1,5 @@
+.DS_Store
+.git-dev-detective/
+node_modules/
+dist/
+
